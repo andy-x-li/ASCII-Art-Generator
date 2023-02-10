@@ -4,7 +4,9 @@ A program I wrote in Scala that takes in any image and returns the ASCII art ver
 
 To run: 
   1) Create a folder with ASCIIArt.scala and an image
-  2) Run via cmd line "scala ASCIIArt.scala <image>"
+  2) Run via cmd line 
+
+Example: "scala ASCIIArt.scala basketball.jpg"
   
 Some examples: 
   
