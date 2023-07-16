@@ -7,7 +7,7 @@ To run: <br>
 > **2)** Add image to folder <br>
 > **3)** Run via cmd line (scala **ASCIIArt.scala** '[image name]')
 
-Example: `scala **ASCIIArt.scala** basketball.jpg`
+Example: `scala ASCIIArt.scala basketball.jpg`
   
 An example: 
   
