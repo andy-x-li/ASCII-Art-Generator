@@ -2,10 +2,10 @@
 
 A program I wrote in Scala that takes in any image and returns the ASCII art version of it in the terminal.
 
-To run: 
-> **1)** Create a folder containing **ASCIIArt.scala**
-> **2)** Add image to folder
-> **3)** Run via cmd line `scala ASCIIArt.scala '[image name]'`
+To run: <br>
+> **1)** Create a folder containing **ASCIIArt.scala** <br>
+> **2)** Add image to folder <br>
+> **3)** Run via cmd line (scala ASCIIArt.scala '[image name]')
 
 Example: `scala ASCIIArt.scala basketball.jpg`
   
